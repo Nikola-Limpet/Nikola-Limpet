@@ -1,7 +1,7 @@
 ![Banner](https://www.francis.edu/sites/default/files/styles/hero_1920_auto/public/2022-01/Program%20%20collage%20banners%20%2825%29.png?itok=Vv-YHtNY)
 
 <h1 align="center" >Hey forks! I'm Yuujin</h1>
-<h3 align="center"> I'm Software Dev🖥️🌠</h3>
+<h3 align="center"> I'm a Software Dev🖥️🌠</h3>
 
 <a href='https://portfolio-website-silk-eta.vercel.app/'> My Portfolio Website 💫🌠</a>
 
