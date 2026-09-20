@@ -1,47 +1,37 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Yuujin — Full Stack Developer" />
+<img src="./assets/hero.webp" width="100%" alt="Yuujin — Full Stack Developer building cloud-native products" />
 
 <br/>
 
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=7C6CFF&center=true&vCenter=true&width=760&lines=Full+Stack+Developer+%E2%80%A2+Cloud+Builder;React+%E2%80%A2+Vue.js+%E2%80%A2+Laravel+%E2%80%A2+Go;AWS+Certified+Solutions+Architect;Building+clean%2C+scalable+products"
-    alt="Typing introduction"
-  />
-</a>
-
 <p>
   <a href="https://portfolio-website-silk-eta.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-FF5A36?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-F97316?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/nikola-limpet-64a68227a/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Nikola-Limpet?tab=repositories">
-    <img src="https://img.shields.io/badge/PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
+    <img src="https://img.shields.io/badge/EXPLORE_PROJECTS-111827?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Nikola-Limpet&label=PROFILE+VIEWS&style=for-the-badge&color=6C63FF" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Nikola-Limpet&label=PROFILE+VIEWS&style=flat-square&color=6366F1" alt="Profile views" />
 
 </div>
 
 ---
 
-## 👋 About Me
+## About me
 
 ```ts
 const yuujin = {
   role: "Full Stack Developer",
   location: "Phnom Penh, Cambodia",
-  focus: "Scalable full-stack & cloud-native products",
-  frontend: ["React", "Next.js", "Vue.js", "TypeScript"],
-  backend: ["Laravel", "Go", "Node.js", "Express", "Flask"],
-  cloud: ["AWS", "Cloudflare", "Railway"],
-  values: ["Clean Code", "Great UX", "Reliable Systems"],
-  currentlyLearning: ["Distributed Systems", "Advanced Cloud Patterns"],
-  funFact: "Coffee ☕ → Code 💻 → Deploy 🚀 → Repeat 🔁"
+  building: "Scalable, cloud-native products",
+  priorities: ["Clean Architecture", "Great UX", "Reliable Systems"],
+  learning: ["Distributed Systems", "Advanced Cloud Patterns"],
+  certifications: ["AWS Solutions Architect", "AWS Cloud Practitioner"]
 };
 ```
 
@@ -49,24 +39,22 @@ const yuujin = {
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ Right now
+### What I'm doing
 
-- 🔭 Building **cloud-native full-stack applications**
-- ☁️ **2× AWS Certified**
-- 🌱 Exploring **distributed systems & cloud architecture**
-- 💬 Ask me about **React, Vue.js, Laravel, Go, TanStack, AWS**
-- 🤝 Open to interesting products and collaborations
+- Building production-ready full-stack applications
+- Designing cloud infrastructure on AWS
+- Turning product ideas into thoughtful user experiences
+- Exploring distributed systems and scalable architecture
 
 </td>
 <td width="50%" valign="top">
 
-### 🧭 What I care about
+### How I work
 
-- Clean, maintainable architecture
-- Fast and thoughtful user experiences
-- Practical engineering over unnecessary complexity
-- Systems that are easy to operate and scale
-- Constant learning and shipping
+- Clear, maintainable code over clever complexity
+- User experience considered from the first commit
+- Pragmatic architecture that can evolve with the product
+- Continuous learning, shipping, and improvement
 
 </td>
 </tr>
@@ -74,13 +62,13 @@ const yuujin = {
 
 ---
 
-## 🧰 Tech Stack
+## Tech stack
 
 <div align="center">
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,tailwind,vite,redux&perline=8" alt="Frontend stack" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,tailwind,vite,redux&perline=8" alt="React, Next.js, Vue.js, TypeScript, JavaScript, Tailwind CSS, Vite and Redux" />
 
 <br/>
 
@@ -89,19 +77,19 @@ const yuujin = {
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=laravel,php,go,nodejs,express,python,flask&perline=7" alt="Backend stack" />
+<img src="https://skillicons.dev/icons?i=laravel,php,go,nodejs,express,python,flask&perline=7" alt="Laravel, PHP, Go, Node.js, Express, Python and Flask" />
 
-### Databases & ORMs
+### Data
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,prisma&perline=5" alt="Database stack" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,prisma&perline=5" alt="PostgreSQL, MongoDB, MySQL, SQLite and Prisma" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=111827" alt="Drizzle" />
+<img src="https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=111827" alt="Drizzle ORM" />
 
-### Cloud & Infrastructure
+### Cloud & tooling
 
-<img src="https://skillicons.dev/icons?i=aws,cloudflare,bash,linux,git,docker&perline=6" alt="Cloud and infrastructure" />
+<img src="https://skillicons.dev/icons?i=aws,cloudflare,docker,linux,bash,git&perline=6" alt="AWS, Cloudflare, Docker, Linux, Bash and Git" />
 
 <br/>
 
@@ -111,7 +99,7 @@ const yuujin = {
 
 ---
 
-## 🏅 AWS Certifications
+## AWS certifications
 
 <div align="center">
 
@@ -131,39 +119,33 @@ const yuujin = {
 
 ---
 
-## 📊 GitHub Snapshot
+## GitHub activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nikola-Limpet&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=7C6CFF&icon_color=38BDF8&text_color=C9D1D9" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikola-Limpet&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=7C6CFF&text_color=C9D1D9" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nikola-Limpet&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=F59E0B&text_color=C9D1D9" alt="Yuujin's GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikola-Limpet&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9" alt="Yuujin's most-used languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikola-Limpet&hide_border=true&background=0D1117&ring=7C6CFF&fire=FF5A36&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikola-Limpet&hide_border=true&background=0D1117&ring=60A5FA&fire=F59E0B&currStreakLabel=60A5FA&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Yuujin's GitHub streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikola-Limpet&bg_color=0D1117&color=C9D1D9&line=60A5FA&point=F59E0B&area=true&area_color=1D4ED8&hide_border=true" width="100%" alt="Yuujin's contribution activity graph" />
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikola-Limpet&bg_color=0D1117&color=C9D1D9&line=7C6CFF&point=38BDF8&area=true&area_color=7C6CFF&hide_border=true" width="100%" alt="Contribution graph" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
+## Contribution snake
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nikola-Limpet/Nikola-Limpet/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nikola-Limpet/Nikola-Limpet/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Nikola-Limpet/Nikola-Limpet/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/Nikola-Limpet/Nikola-Limpet/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
@@ -172,26 +154,19 @@ const yuujin = {
 
 <div align="center">
 
-### 💭 Words I Like
+### Let's build something useful
 
-> **“Before software can be reusable, it first has to be usable.”**  
-> — Ralph Johnson
-
-<br/>
-
-### 🤝 Let's Build Something Great
-
-I'm always open to interesting conversations, ambitious products, and collaboration opportunities.
+I'm open to thoughtful products, engineering collaborations, and ambitious ideas.
 
 <a href="https://portfolio-website-silk-eta.vercel.app/">
-  <img src="https://img.shields.io/badge/CHECK_OUT_MY_WORK-FF5A36?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Check out my work" />
+  <img src="https://img.shields.io/badge/SEE_MY_WORK-F97316?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="See my work" />
 </a>
 <a href="https://www.linkedin.com/in/nikola-limpet-64a68227a/">
-  <img src="https://img.shields.io/badge/LET'S_CONNECT-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's connect" />
+  <img src="https://img.shields.io/badge/LET'S_CONNECT-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
 </a>
 
 <br/><br/>
 
-<sub>Code • Learn • Build • Deploy • Repeat</sub>
+<sub>Build • Deploy • Learn • Improve</sub>
 
 </div>
