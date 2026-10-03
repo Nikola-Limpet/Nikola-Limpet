@@ -1,0 +1,11 @@
+# Night observatory design reference
+
+Generated with the built-in image generation tool. This is a visual reference only. Any illustrative copy, tools, badges, or statistics in the concept do not establish facts about the profile owner. Implementation preserves the verified README content and live widgets.
+
+```text
+Use case: ui-mockup
+Asset type: full-page visual design reference for implementing a GitHub profile README, vertical 2:3 composition.
+Primary request: reimagine Yuujin's developer profile as a refined midnight observatory journal. Calm editorial design, deep ink-navy background, subtle indigo-violet nebula light only at section edges, cream serif identity typography, small cool-blue monospaced labels. A cohesive continuous page with generous negative space and thin constellation dividers; avoid repeated giant rounded gradient cards.
+Layout: top panoramic night sky landscape with crescent moon, sparse stars, one meteor trail, and small charming storybook fox, cream rabbit and gray cat walking along a distant ridge. On the left title exactly 'Yuujin', below 'Full stack developer', then 'Phnom Penh, Cambodia'. Under it a slim navigation row 'Portfolio / LinkedIn / Projects'. A compact 'About' block of two lines and a discreet 'Current focus' line. Then 'Toolkit' with four compact horizontal bands labeled 'Interfaces', 'APIs & services', 'Data', 'Cloud & tools', each with tasteful small technology icons and labels, no bright white oversized icon tiles. Then a small two-column 'AWS certified' area with two restrained badge medallions labeled 'Solutions Architect' and 'Cloud Practitioner'. Then 'Activity' with a slim three-number streak panel labeled 'Contributions', 'Current streak', 'Longest streak', use em dash placeholders rather than invented stats. Footer contains a developer quote card and a small full-width moonlit contact strip 'Have a product in mind?' and 'Let’s talk'.
+Constraints: design a polished implementable README composition, not an app with sidebar or navigation chrome. No fake projects, no invented achievements, no extra big cards, no robots or terminals, no artwork attribution. Consistent rhythm, restrained decoration, high contrast legible text. This is a visual reference, actual links/data/text will be implemented separately.
+```

@@ -1,55 +1,44 @@
 <div align="center">
 
-<img src="./assets/workstation-3d.webp" width="100%" alt="A 3D developer workstation with a glowing mint terminal, mechanical keyboard, and server stack" />
-
-# Hey, I'm Yuujin.
-
-**Full stack developer · Phnom Penh, Cambodia**
-
-I build web applications and the cloud infrastructure behind them.
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/observatory-hero-mobile.gif" />
+  <img src="./assets/observatory-hero.gif" width="100%" alt="Yuujin, full stack developer in Phnom Penh, Cambodia. A fox, rabbit, and cat walk across a moonlit landscape beneath stars and meteors." />
+</picture>
 
 [Portfolio](https://portfolio-website-silk-eta.vercel.app/) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/nikola-limpet-64a68227a/) &nbsp; / &nbsp; [Projects](https://github.com/Nikola-Limpet?tab=repositories)
 
 </div>
 
-<br />
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/observatory-body-mobile.png" />
+  <img src="./assets/observatory-body.png" width="100%" alt="About Yuujin: building web applications and cloud infrastructure with clear code and usable interfaces. Current focus: React, Vue, Laravel, AWS, and learning distributed systems. Toolkit: React, Next.js, Vue, TypeScript, JavaScript, Tailwind CSS, React Native, TanStack, Redux, Vite; Laravel, PHP, Go, Node.js, Python, Express, Flask; PostgreSQL, MySQL, MongoDB, SQLite, Prisma, Drizzle; AWS, Cloudflare, Docker, Linux, Git, Railway, Bash. AWS certifications below." />
+</picture>
 
-## From interface to infrastructure
+<p align="center">
+  <a href="https://www.credly.com/badges/b74b8d00-f95a-401d-8225-1ea29ae2a6a2/linked_in?t=swqtka"><img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="90" alt="AWS Certified Solutions Architect Associate" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/4d0c1415-9e2f-41ef-8f8b-50bf013d227b/linked_in"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="90" alt="AWS Certified Cloud Practitioner" /></a>
+</p>
+<p align="center">
+  <a href="https://www.credly.com/badges/b74b8d00-f95a-401d-8225-1ea29ae2a6a2/linked_in?t=swqtka">Solutions Architect Associate</a> · <a href="https://www.credly.com/badges/4d0c1415-9e2f-41ef-8f8b-50bf013d227b/linked_in">Cloud Practitioner</a>
+</p>
 
-<img align="right" src="./assets/terminal-float.gif" width="190" alt="A 3D terminal gently floating in a four-second loop" />
+<h2><picture>
+  <source media="(max-width: 600px)" srcset="./assets/observatory-activity-mobile.png" />
+  <img src="./assets/observatory-activity.png" width="100%" alt="Activity" />
+</picture></h2>
 
-I work across frontend, backend, and AWS. I care about interfaces that are easy to use and code that's easy to come back to.
+<p align="center">
+  <a href="https://github.com/Nikola-Limpet?tab=overview"><img src="https://streak-stats.demolab.com/?user=Nikola-Limpet&amp;theme=tokyonight&amp;hide_border=true&amp;background=0B1120&amp;ring=B3C5EF&amp;fire=D8B77C&amp;currStreakNum=EEE5D5&amp;sideNums=C4D4EE&amp;currStreakLabel=C4D4EE&amp;sideLabels=91A7CF&amp;dates=8293AC&amp;stroke=253147" width="495" alt="GitHub contribution streak: total contributions, current streak, and longest streak" /></a>
+</p>
 
-Lately, my focus has been on:
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=github_dark" width="600" alt="A rotating developer quote" />
+</p>
 
-- Building full-stack applications with React, Vue, and Laravel.
-- Designing cloud infrastructure on AWS.
-- Learning more about distributed systems and cloud architecture.
-
-[Browse my repositories →](https://github.com/Nikola-Limpet?tab=repositories)
-
-<br clear="all" />
-
-## My toolkit
-
-| Area | Technologies |
-| :--- | :--- |
-| Interfaces | React, Next.js, Vue, TypeScript, JavaScript, Tailwind CSS |
-| APIs & services | Laravel, PHP, Go, Node.js, Express, Python, Flask |
-| Data | PostgreSQL, MySQL, MongoDB, SQLite, Prisma, Drizzle |
-| Cloud & tools | AWS, Cloudflare, Railway, Docker, Linux, Bash, Git |
-| Also in the mix | React Native, TanStack, Redux, Vite |
-
-## AWS certified
-
-<a href="https://www.credly.com/badges/b74b8d00-f95a-401d-8225-1ea29ae2a6a2/linked_in?t=swqtka"><img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100" alt="AWS Certified Solutions Architect Associate badge" /></a>
-&nbsp;&nbsp;
-<a href="https://www.credly.com/badges/4d0c1415-9e2f-41ef-8f8b-50bf013d227b/linked_in"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" alt="AWS Certified Cloud Practitioner badge" /></a>
-
-[Solutions Architect Associate](https://www.credly.com/badges/b74b8d00-f95a-401d-8225-1ea29ae2a6a2/linked_in?t=swqtka) &nbsp; · &nbsp; [Cloud Practitioner](https://www.credly.com/badges/4d0c1415-9e2f-41ef-8f8b-50bf013d227b/linked_in)
-
----
-
-Have a product in mind? [Let's talk on LinkedIn.](https://www.linkedin.com/in/nikola-limpet-64a68227a/)
-
-<sub>3D artwork made for this profile. <a href="./assets/README.md">Assets and still version</a>.</sub>
+<a href="https://www.linkedin.com/in/nikola-limpet-64a68227a/">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/observatory-footer-mobile.webp" />
+    <img src="./assets/observatory-footer.webp" width="100%" alt="Have a product in mind? Let's talk on LinkedIn." />
+  </picture>
+</a>

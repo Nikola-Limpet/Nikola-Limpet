@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="64" viewBox="0 0 960 64" role="img" aria-labelledby="title">
+<title id="title">Activity</title>
+<rect width="960" height="64" fill="#0b1120"/>
+<path transform="translate(30 32) scale(1)" d="M0 -12 L2 -3 L9 -6 L4 0 L12 2 L3 3 L0 12 L-2 3 L-9 6 L-4 0 L-12 -2 L-3 -3 Z" fill="#96b4d8" opacity=".85"/>
+<text x="65" y="42" fill="#f2ebdf" font-family="Georgia,Times New Roman,serif" font-size="30" >Activity</text>
+<path d="M193 32 H507.79999999999995 L522.8 28 L537.8 32 H678" fill="none" stroke="#35465e" stroke-width="1"/><circle cx="522.8" cy="28" r="2" fill="#96b4d8"/><circle cx="537.8" cy="32" r="1.5" fill="#96b4d8"/>
+<text x="925" y="36" fill="#96b4d8" font-family="Verdana,sans-serif" font-size="10" text-anchor="end" letter-spacing="2">GITHUB CONTRIBUTIONS</text>
+</svg>
