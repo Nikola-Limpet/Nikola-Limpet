@@ -21,3 +21,9 @@ Use case: stylized-concept. Asset: transparent walk-cycle sprite sheet. EXACTLY 
 ```
 
 The original fox prompt is in [woodland-notes.md](./woodland-notes.md).
+
+## Body and footer panels
+
+The static SVG panels use the midnight-blue, violet glow, and sparse stars from the supplied reference. `scripts/night_style.py` holds the shared background and text styling. Rebuild with `python scripts/render-night-panels.py` and `python scripts/render-toolkit.py`. The README includes full text alternatives and preserves working profile and certification links.
+
+Compact `-mobile.svg` variants load through `<picture>` below 600px. Toolkit cards switch to three icons per row, while body and footer text use larger lettering.
