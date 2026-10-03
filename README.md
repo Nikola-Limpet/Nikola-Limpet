@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/workstation-3d.webp" width="100%" alt="A 3D developer workstation with a glowing mint terminal, mechanical keyboard, and server stack" />
+<img src="./assets/woodland-fox.gif" width="100%" alt="Yuujin, full stack developer in Phnom Penh. A little orange fox walks beneath a crescent moon across a dark olive woodland banner." />
 
 # Hey, I'm Yuujin.
 
@@ -16,8 +16,6 @@ I build web applications and the cloud infrastructure behind them.
 
 ## From interface to infrastructure
 
-<img align="right" src="./assets/terminal-float.gif" width="190" alt="A 3D terminal gently floating in a four-second loop" />
-
 I work across frontend, backend, and AWS. I care about interfaces that are easy to use and code that's easy to come back to.
 
 Lately, my focus has been on:
@@ -27,8 +25,6 @@ Lately, my focus has been on:
 - Learning more about distributed systems and cloud architecture.
 
 [Browse my repositories →](https://github.com/Nikola-Limpet?tab=repositories)
-
-<br clear="all" />
 
 ## My toolkit
 
@@ -51,5 +47,3 @@ Lately, my focus has been on:
 ---
 
 Have a product in mind? [Let's talk on LinkedIn.](https://www.linkedin.com/in/nikola-limpet-64a68227a/)
-
-<sub>3D artwork made for this profile. <a href="./assets/README.md">Assets and still version</a>.</sub>
