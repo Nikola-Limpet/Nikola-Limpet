@@ -12,6 +12,7 @@ Run from the repository root:
 python scripts/render-observatory.py
 python scripts/render-observatory-panels.py
 python scripts/render-toolkit.py
+uv run --with pillow --with cairosvg python scripts/render-observatory-body.py
 ```
 
 The animation renderer requires Pillow and DejaVu fonts. `FONT_DIR` can override the font directory. The SVG generators use Python's standard library. The animation has 240 frames at 10 fps and loops every 24 seconds. The desktop GIF is approximately 2.1 MB; the separate 420px mobile GIF is approximately 1.1 MB. Mobile picture sources activate below 600px.
@@ -23,3 +24,9 @@ The production landscape and full-page concept were generated with the built-in 
 Fresh agents independently reviewed the design and implemented the toolkit and body panels. Review caught the desktop hero's small text on phones; the final design has a separately rendered mobile animation. XML, local source references, both GIF durations/frame counts, and GitHub Markdown rendering were verified. Desktop and 390px browser checks found all images loaded and no horizontal overflow. Browser text bounds for the mobile SVGs showed no clipping.
 
 Live statistics and quotes depend on external services and GitHub image caching. The mockup's statistics and quote are not used as profile data. Original earlier assets remain in the repository but are no longer embedded in the README.
+
+## Restored body atmosphere
+
+`assets/observatory-body-background.png` restores the concept's star fields, violet mist, and forest silhouettes. The About, Toolkit, and certification heading are composed into one continuous desktop/mobile PNG, preserving editable SVG sources. The Activity heading uses the same backdrop. This avoids the flat fills and gaps between earlier body panels. Fontconfig is isolated to DejaVu fonts on Linux for reproducible typography; `FONTCONFIG_FILE` can override it.
+
+The live streak, quote, credential links, and surrounding GitHub page remain separate. GitHub does not permit a custom background on its entire README container.

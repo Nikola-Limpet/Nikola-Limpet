@@ -10,24 +10,9 @@
 </div>
 
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/observatory-about-mobile.svg" />
-  <img src="./assets/observatory-about.svg" width="100%" alt="About. I build web applications and the cloud infrastructure behind them, with a focus on clear code and usable interfaces. Current focus: React, Vue, and Laravel applications; AWS infrastructure; learning distributed systems." />
+  <source media="(max-width: 600px)" srcset="./assets/observatory-body-mobile.png" />
+  <img src="./assets/observatory-body.png" width="100%" alt="About Yuujin: building web applications and cloud infrastructure with clear code and usable interfaces. Current focus: React, Vue, Laravel, AWS, and learning distributed systems. Toolkit: React, Next.js, Vue, TypeScript, JavaScript, Tailwind CSS, React Native, TanStack, Redux, Vite; Laravel, PHP, Go, Node.js, Python, Express, Flask; PostgreSQL, MySQL, MongoDB, SQLite, Prisma, Drizzle; AWS, Cloudflare, Docker, Linux, Git, Railway, Bash. AWS certifications below." />
 </picture>
-
-<h2><picture>
-  <source media="(max-width: 600px)" srcset="./assets/observatory-heading-toolkit-mobile.svg" />
-  <img src="./assets/observatory-heading-toolkit.svg" width="100%" alt="Toolkit" />
-</picture></h2>
-
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/toolkit-atlas-mobile.svg" />
-  <img src="./assets/toolkit-atlas.svg" width="100%" alt="Interfaces: React, Next.js, Vue, TypeScript, JavaScript, Tailwind CSS, React Native, TanStack, Redux, Vite. APIs and services: Laravel, PHP, Go, Node.js, Python, Express, Flask. Data: PostgreSQL, MySQL, MongoDB, SQLite, Prisma, Drizzle. Cloud and tools: AWS, Cloudflare, Docker, Linux, Git, Railway, Bash." />
-</picture>
-
-<h2><picture>
-  <source media="(max-width: 600px)" srcset="./assets/observatory-heading-certifications-mobile.svg" />
-  <img src="./assets/observatory-heading-certifications.svg" width="100%" alt="AWS certified" />
-</picture></h2>
 
 <p align="center">
   <a href="https://www.credly.com/badges/b74b8d00-f95a-401d-8225-1ea29ae2a6a2/linked_in?t=swqtka"><img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="90" alt="AWS Certified Solutions Architect Associate" /></a>
@@ -39,8 +24,8 @@
 </p>
 
 <h2><picture>
-  <source media="(max-width: 600px)" srcset="./assets/observatory-heading-activity-mobile.svg" />
-  <img src="./assets/observatory-heading-activity.svg" width="100%" alt="Activity" />
+  <source media="(max-width: 600px)" srcset="./assets/observatory-activity-mobile.png" />
+  <img src="./assets/observatory-activity.png" width="100%" alt="Activity" />
 </picture></h2>
 
 <p align="center">
